@@ -1,2 +1,2 @@
-# empty-website
-Empty HTML website template.
+# Empty HTML website
+- Maybe someone need this!
